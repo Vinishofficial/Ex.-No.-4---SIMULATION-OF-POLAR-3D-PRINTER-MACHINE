@@ -37,7 +37,7 @@
 ![Screenshot 2023-11-22 084213](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/f8b5289f-0dcc-4e37-98dd-05d96b7019c2)
 
 
-### Name:VINISHRAJ R
+### Name: VINISHRAJ R
 ### Register Number: 23014040
 
 ## Result: 
