@@ -32,9 +32,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![Screenshot 2023-11-22 084213](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/f8b5289f-0dcc-4e37-98dd-05d96b7019c2)
 ![Screenshot 2023-11-22 083819](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/f8f6d782-ddab-4721-90dc-3c7429bc48af)
 ![Screenshot 2023-11-22 084151](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/9a70de5b-078a-418d-a458-a496402a1f52)
+![Screenshot 2023-11-22 084213](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/f8b5289f-0dcc-4e37-98dd-05d96b7019c2)
 
 
 ### Name:
