@@ -32,10 +32,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![Screenshot 2023-11-22 083819](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/f8f6d782-ddab-4721-90dc-3c7429bc48af)
-![Screenshot 2023-11-22 084151](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/9a70de5b-078a-418d-a458-a496402a1f52)
-![Screenshot 2023-11-22 084213](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/f8b5289f-0dcc-4e37-98dd-05d96b7019c2)
 
+![Screenshot 2024-01-02 190613](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/cfb1ab04-e777-4f47-9d51-20962cf0bec8)
+![Screenshot 2024-01-02 190626](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/9fd01d39-c0db-444f-a1d7-303f18ac756d)
+
+![Screenshot 2024-01-02 190901](https://github.com/Vinishofficial/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146931793/3207cd39-1391-4821-819b-d9d0b7d9b3a3)
 
 ### Name: VINISHRAJ R
 ### Register Number: 23014040
